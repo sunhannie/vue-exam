@@ -8,10 +8,8 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'HelloWorld',
+      name: 'HelloWorld11',
       component: HelloWorld
     }
   ]
 })
-
-// 需要学的是router的用法
